@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\troand\source\repos\Project14\MyForm.h(391,7): warning C4101: ttem: неиспользованная локальная переменная
+C:\Users\troand\source\repos\Project14\MyForm.h(390,152): warning C4101: ennd: неиспользованная локальная переменная
+C:\Users\troand\source\repos\Project14\MyForm.h(390,142): warning C4101: ans: неиспользованная локальная переменная
+C:\Users\troand\source\repos\Project14\MyForm.h(390,25): warning C4101: shif: неиспользованная локальная переменная
+C:\Users\troand\source\repos\Project14\MyForm.h(390,124): warning C4101: temp1: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project14.vcxproj -> C:\Users\troand\source\repos\Project14\Debug\Project14.exe
